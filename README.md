@@ -1,0 +1,2 @@
+# personal
+Some easy project
