@@ -1,5 +1,7 @@
 """
 网易buff爬虫
+Created by Charles-Deng
+17jldeng@stu.edu.cn
 """
 import requests
 
